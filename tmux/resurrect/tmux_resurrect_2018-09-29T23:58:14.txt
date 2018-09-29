@@ -1,0 +1,4 @@
+pane	0	0	:~/.dotfiles	1	:*	0	:/home/seminioni/.dotfiles	0	zsh	:
+pane	0	0	:~/.dotfiles	1	:*	1	:/home/seminioni/.dotfiles	1	zsh	:
+window	0	0	1	:*	9140,144x40,0,0{72x40,0,0,0,71x40,73,0,1}
+state	0	

@@ -1,0 +1,27 @@
+- defaults:
+    link:
+      force: true
+      create: true
+      relink: true
+
+- clean: ['~']
+
+- link:
+    ~/.dotfiles: ''
+    # bash
+    ~/.bashrc: .bashrc
+    # tmux
+    ~/.tmux.conf: tmux/.tmux.conf
+    ~/.tmux/plugins/tpm: tmux/plugins/tpm
+    ~/.tmux/plugins/tmux-sensible: tmux/plugins/tmux-sensible
+    ~/.tmux/plugins/tmux-resurrect: tmux/plugins/tmux-resurrect
+    ~/.tmux/resurrect: tmux/resurrect
+    # git
+    ~/.gitconfig: git/.gitconfig
+    # zsh
+    ~/.zshrc: zsh/zshrc/.zshrc
+    ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions: zsh/zsh-autosuggestions
+
+
+- shell:
+  - [git submodule update --init --recursive, Installing submodules]

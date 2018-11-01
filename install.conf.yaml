@@ -19,9 +19,12 @@
     ~/.gitconfig: git/.gitconfig
     # zsh
     ~/.zshrc: zsh/zshrc/.zshrc
+    # oh-my-zsh
+    ~/.oh-my-zsh: oh-my-zsh
     ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions: zsh/zsh-autosuggestions
 
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
   - [sh ./scripts/firacodefontdownloader.sh]
+  - [sh ./oh-my-zsh/install.sh]

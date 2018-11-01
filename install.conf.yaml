@@ -7,7 +7,6 @@
 - clean: ['~']
 
 - link:
-    ~/.dotfiles: ''
     # bash
     ~/.bashrc: .bashrc
     # tmux

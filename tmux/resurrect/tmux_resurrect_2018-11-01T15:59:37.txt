@@ -1,6 +1,0 @@
-pane	0	0	:bash	1	:*	0	:/home/seminioni/Documents/.dotfiles	0	bash	:
-pane	0	0	:bash	1	:*	1	:/home/seminioni/Documents/.dotfiles	1	bash	:
-pane	0	0	:bash	1	:*	2	:/home/seminioni/Documents/.dotfiles	0	bash	:
-pane	0	0	:bash	1	:*	3	:/home/seminioni/Documents/.dotfiles	0	bash	:
-window	0	0	1	:*	e872,143x41,0,0{71x41,0,0[71x20,0,0,0,71x20,0,21,3],71x41,72,0[71x20,72,0,1,71x20,72,21,2]}
-state	0	

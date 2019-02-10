@@ -26,5 +26,5 @@
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
-  - [sh ./scripts/firacode_font_downloader.sh]
+#   - [sh ./scripts/firacode_font_downloader.sh] -- need to be replaced by brew package
   - [sh ./oh-my-zsh/tools/install.sh]

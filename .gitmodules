@@ -2,7 +2,7 @@
 	path = dotbot
 	url = https://github.com/anishathalye/dotbot
 [submodule "zsh/zsh-autosuggestions"]
-	path = zsh/zsh-autosuggestions
+	path = zsh/custom/plugins
 	url = https://github.com/zsh-users/zsh-autosuggestions.git
 [submodule "tmux/plugins/tpm"]
 	path = tmux/plugins/tpm

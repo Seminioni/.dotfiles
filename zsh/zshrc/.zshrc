@@ -13,13 +13,12 @@ DISABLE_UNTRACKED_FILES_DIRTY="true"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
+
 plugins=(
   git
   zsh-autosuggestions
   shrink-path
 )
-
-alias blrestart="sudo service /etc/init.d/bluetooth restart"
 
 # Suggests colour in zsh-autosuggest
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE=fg=2
@@ -27,8 +26,10 @@ ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE=fg=2
 # export path to the oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 source $ZSH/oh-my-zsh.sh
+
 # export SSH public keypath
 export SSH_KEY_PATH="~/.ssh/rsa_id"
+
 # export $PATH variable
 export PATH=":/usr/local/opt/node@10/bin:$PATH"
 

@@ -41,3 +41,7 @@ local git_branch='$FG[190]$(git_prompt_info)%{$reset_color%}'
 
 PROMPT="╭─[${user_host}] - ${current_dir}
 ╰─>${git_branch}: "
+
+export NVM_DIR="$HOME/.nvm"
+  [ -s "/usr/local/opt/nvm/nvm.sh" ] && . "/usr/local/opt/nvm/nvm.sh"  # This loads nvm
+  [ -s "/usr/local/opt/nvm/etc/bash_completion" ] && . "/usr/local/opt/nvm/etc/bash_completion"  # This loads nvm bash_completion

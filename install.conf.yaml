@@ -7,6 +7,8 @@
 - clean: ['~']
 
 - link:
+    # huslogin (prevent of last login line on new terminal window opening)
+    ~/.hushlogin: .hushlogin
     # bash
     ~/.bashrc: .bashrc
     # tmux

@@ -1,0 +1,99 @@
+pane	0	0	:zsh	1	:*	0	:/Users/seminioni	0	zsh	:
+pane	0	0	:zsh	1	:*	1	:/Users/seminioni	0	zsh	:
+pane	0	0	:zsh	1	:*	2	:/Users/seminioni	0	zsh	:
+pane	0	0	:zsh	1	:*	3	:/Users/seminioni	1	zsh	:
+pane	1	0	:~	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	10	0	:zsh	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	11	0	:zsh	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	12	0	:zsh	1	:*	0	:/Users/seminioni/Documents/ReachView-private/reachview/app/static-src	1	zsh	:
+pane	13	0	:zsh	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	14	0	:zsh	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	15	0	:zsh	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	16	0	:zsh	1	:*	0	:/Users/seminioni	0	zsh	:
+pane	16	0	:zsh	1	:*	1	:/Users/seminioni	1	zsh	:
+pane	17	0	:zsh	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	18	0	:zsh	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	19	0	:zsh	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	2	0	:~	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	20	0	:zsh	1	:*	0	:/Users/seminioni/Documents/ReachView-private/reachview/app/static-src	0	zsh	:
+pane	20	0	:zsh	1	:*	1	:/Users/seminioni/Documents/ReachView-private/reachview/app/static-src	0	zsh	:
+pane	20	0	:zsh	1	:*	2	:/Users/seminioni/Documents/ReachView-private/reachview/app/static-src	1	zsh	:
+pane	21	0	:zsh	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	22	0	:zsh	1	:*	0	:/Users/seminioni/Documents/ReachView-private/reachview/app/static-src	0	zsh	:
+pane	22	0	:zsh	1	:*	1	:/Users/seminioni	0	zsh	:
+pane	22	0	:zsh	1	:*	2	:/Users/seminioni	1	zsh	:
+pane	23	0	:zsh	1	:*Z	0	:/Users/seminioni/Documents/ReachView-private/reachview/app/static-src	0	zsh	:
+pane	23	0	:zsh	1	:*Z	1	:/Users/seminioni	0	zsh	:
+pane	23	0	:zsh	1	:*Z	2	:/Users/seminioni/Documents/ReachView-private/reachview/app/static-src	1	zsh	:
+pane	24	0	:zsh	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	25	0	:zsh	1	:*	0	:/Users/seminioni/Documents/ReachView-private/reachview/app/static-src	0	zsh	:
+pane	25	0	:zsh	1	:*	1	:/Users/seminioni	0	zsh	:
+pane	25	0	:zsh	1	:*	2	:/Users/seminioni/Documents/ReachView-private/reachview/app/static-src	1	zsh	:
+pane	26	0	:zsh	1	:*	0	:/Users/seminioni/Documents/ReachView-private/reachview/app/static-src	0	zsh	:
+pane	26	0	:zsh	1	:*	1	:/Users/seminioni/Documents/ReachView-private/reachview/app/static-src	0	zsh	:
+pane	26	0	:zsh	1	:*	2	:/Users/seminioni	1	zsh	:
+pane	27	0	:zsh	1	:*	0	:/Users/seminioni/Documents/ReachView-private/reachview/app/static-src	0	zsh	:
+pane	27	0	:zsh	1	:*	1	:/Users/seminioni/Documents/ReachView-private/reachview/app/static-src	0	zsh	:
+pane	27	0	:zsh	1	:*	2	:/Users/seminioni/Documents/ReachView-private/reachview/app/static-src	1	zsh	:
+pane	28	0	:zsh	1	:*	0	:/Users/seminioni/Documents/cloud-mvp/admin_app	0	zsh	:
+pane	28	0	:zsh	1	:*	1	:/Users/seminioni/Documents/cloud-mvp	1	zsh	:
+pane	29	0	:zsh	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	3	0	:~	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	30	0	:zsh	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	31	0	:zsh	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	32	0	:zsh	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	34	0	:zsh	1	:*	0	:/Users/seminioni	0	zsh	:
+pane	34	0	:zsh	1	:*	1	:/Users/seminioni	1	zsh	:
+pane	35	0	:zsh	1	:*	0	:/Users/seminioni	0	zsh	:
+pane	35	0	:zsh	1	:*	1	:/Users/seminioni	0	zsh	:
+pane	35	0	:zsh	1	:*	2	:/Users/seminioni	1	zsh	:
+pane	36	0	:zsh	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	38	0	:zsh	1	:*	0	:/Users/seminioni	0	zsh	:
+pane	38	0	:zsh	1	:*	1	:/Users/seminioni	0	zsh	:
+pane	38	0	:zsh	1	:*	2	:/Users/seminioni	1	zsh	:
+pane	4	0	:~/Documents	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	5	0	:~	1	:*	0	:/Users/seminioni/Documents/ReachView-private/reachview/app/static-src	0	zsh	:
+pane	5	0	:~	1	:*	1	:/Users/seminioni/Documents/ReachView-private/reachview/app/static-src	0	zsh	:
+pane	5	0	:~	1	:*	2	:/Users/seminioni/Documents/ReachView-private/reachview/app/static-src	1	zsh	:
+pane	6	0	:zsh	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	7	0	:zsh	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	8	0	:zsh	1	:*	0	:/Users/seminioni	1	zsh	:
+pane	9	0	:zsh	1	:*	0	:/Users/seminioni	1	zsh	:
+window	0	0	1	:*	3bb3,178x44,0,0{89x44,0,0[89x21,0,0,59,89x22,0,22,60],88x44,90,0[88x21,90,0,61,88x22,90,22,62]}
+window	1	0	1	:*	c042,178x44,0,0,5
+window	10	0	1	:*	c043,178x44,0,0,6
+window	11	0	1	:*	c044,178x44,0,0,7
+window	12	0	1	:*	c045,178x44,0,0,8
+window	13	0	1	:*	c046,178x44,0,0,9
+window	14	0	1	:*	604f,178x44,0,0,10
+window	15	0	1	:*	6050,178x44,0,0,11
+window	16	0	1	:*	0331,178x44,0,0{89x44,0,0,12,88x44,90,0,13}
+window	17	0	1	:*	6053,178x44,0,0,14
+window	18	0	1	:*	6054,178x44,0,0,15
+window	19	0	1	:*	6055,178x44,0,0,16
+window	2	0	1	:*	6056,178x44,0,0,17
+window	20	0	1	:*	429e,178x44,0,0[178x21,0,0{89x21,0,0,18,88x21,90,0,19},178x22,0,22,20]
+window	21	0	1	:*	e050,178x44,0,0,21
+window	22	0	1	:*	8292,178x44,0,0[178x21,0,0{89x21,0,0,22,88x21,90,0,23},178x22,0,22,24]
+window	23	0	1	:*Z	969c,178x44,0,0[178x22,0,0{89x22,0,0,25,88x22,90,0,26},178x21,0,23,27]
+window	24	0	1	:*	e057,178x44,0,0,28
+window	25	0	1	:*	029e,178x44,0,0[178x21,0,0{89x21,0,0,29,88x21,90,0,30},178x22,0,22,31]
+window	26	0	1	:*	0294,178x44,0,0[178x21,0,0{89x21,0,0,32,88x21,90,0,33},178x22,0,22,34]
+window	27	0	1	:*	169e,178x44,0,0[178x22,0,0{89x22,0,0,35,88x22,90,0,36},178x21,0,23,37]
+window	28	0	1	:*	8342,178x44,0,0{89x44,0,0,38,88x44,90,0,39}
+window	29	0	1	:*	e050,178x44,0,0,40
+window	3	0	1	:*	e051,178x44,0,0,41
+window	30	0	1	:*	e052,178x44,0,0,42
+window	31	0	1	:*	e053,178x44,0,0,43
+window	32	0	1	:*	e054,178x44,0,0,44
+window	34	0	1	:*	938e,178x44,0,0[178x22,0,0,45,178x21,0,23,46]
+window	35	0	1	:*	eada,178x44,0,0{89x44,0,0,47,88x44,90,0[88x22,90,0,48,88x21,90,23,49]}
+window	36	0	1	:*	6059,178x44,0,0,58
+window	38	0	1	:*	6a19,178x44,0,0{89x44,0,0,63,88x44,90,0[88x22,90,0,65,88x21,90,23,66]}
+window	4	0	1	:*	6051,178x44,0,0,50
+window	5	0	1	:*	0294,178x44,0,0[178x21,0,0{89x21,0,0,51,88x21,90,0,52},178x22,0,22,53]
+window	6	0	1	:*	6055,178x44,0,0,54
+window	7	0	1	:*	6056,178x44,0,0,55
+window	8	0	1	:*	6057,178x44,0,0,56
+window	9	0	1	:*	6058,178x44,0,0,57
+state	38	

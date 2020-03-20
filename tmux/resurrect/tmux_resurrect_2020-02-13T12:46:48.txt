@@ -1,0 +1,4 @@
+pane	0	0	:zsh	1	:*	0	:/Users/seminioni/Documents/cloud-mvp/admin_app	1	zsh	:
+pane	0	0	:zsh	1	:*	1	:/Users/seminioni/Documents/cloud-mvp/admin_app	0	zsh	:
+window	0	0	1	:*	843f,178x43,0,0{89x43,0,0,0,88x43,90,0,1}
+state	0	

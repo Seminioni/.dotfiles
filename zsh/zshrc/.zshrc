@@ -18,6 +18,7 @@ plugins=(
   git
   zsh-autosuggestions
   shrink-path
+  colored-man-pages
 )
 
 # Suggests colour in zsh-autosuggest

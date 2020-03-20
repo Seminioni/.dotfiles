@@ -24,6 +24,10 @@ plugins=(
 # Suggests colour in zsh-autosuggest
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE=fg=2
 
+# Aliases
+alias down="cd ~/Downloads"
+alias docu="cd ~/Documents"
+
 # export path to the oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 source $ZSH/oh-my-zsh.sh
